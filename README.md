@@ -27,9 +27,17 @@ yarn create next-app --example with-tailwindcss with-tailwindcss-app
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
 
 ## Things I've learn
+
 - TailWind Styling
 - JWT Tokens
 - Provider for NextAuth
 - Tokens
-- Middleware _middleware
-- Debounce
+- Middleware \_middleware
+- Debounce (High frequency API calls)
+
+## Env Variable
+
+NEXTAUTH_URL=http://localhost:3000
+NEXT_AUTH_SPOTIFY_CLIENT_SECRET=xxx
+NEXT_AUTH_SPOTIFY_CLIENT_ID=xxx
+JWT_SECRET=xxx
