@@ -41,3 +41,7 @@ NEXTAUTH_URL=http://localhost:3000
 NEXT_AUTH_SPOTIFY_CLIENT_SECRET=xxx
 NEXT_AUTH_SPOTIFY_CLIENT_ID=xxx
 JWT_SECRET=xxx
+
+## Demo
+
+![demo](/demo_spot.gif)
